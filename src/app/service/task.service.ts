@@ -6,7 +6,7 @@ import {TASKS} from '../mock-tasks';
 
 const httpOptions = {
   headers: new HttpHeaders({
-    'Content-Type':'aplication/json'
+    'Content-Type':'application/json'
   })
 }
 
